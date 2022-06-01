@@ -1,4 +1,6 @@
 flows:
+  4e67c65d-53aa-4bb9-a583-3769b1b2ee22: {ver: 1, file: testbucket.snapshot, comments: '',
+    author: anonymous, created: 1654066523278, flowName: testbucket, flowDesc: ''}
   ef4ec963-eb12-4cee-93c1-f837b6c8cea5: {ver: 1, file: gsbbucket1.snapshot, comments: '',
     author: anonymous, created: 1654066047626, flowName: gsbbucket1, flowDesc: ''}
 layoutVer: 1
