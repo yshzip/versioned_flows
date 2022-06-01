@@ -1,6 +1,4 @@
 flows:
-  2cfe262b-0730-4edc-b435-ca702d77a4fc: {ver: 1, file: gsb2bucket.snapshot, comments: '',
-    author: anonymous, created: 1654090732198, flowName: gsb2bucket, flowDesc: ''}
   b59532c3-5397-4d17-b8aa-80b8a28af47e: {ver: 1, file: gsbtest.snapshot, comments: '',
     author: anonymous, created: 1654066866874, flowName: gsbtest, flowDesc: ''}
   ef4ec963-eb12-4cee-93c1-f837b6c8cea5: {ver: 1, file: gsbbucket1.snapshot, comments: '',
