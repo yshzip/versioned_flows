@@ -1,0 +1,56 @@
+{
+  "header" : {
+    "dataModelVersion" : "3"
+  },
+  "content" : {
+    "flowSnapshot" : {
+      "externalControllerServices" : { },
+      "flowContents" : {
+        "comments" : "",
+        "componentType" : "PROCESS_GROUP",
+        "connections" : [ ],
+        "controllerServices" : [ ],
+        "flowFileConcurrency" : "UNBOUNDED",
+        "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
+        "funnels" : [ ],
+        "identifier" : "33ed3e7a-dce9-3ac0-8087-9ce5a3907186",
+        "inputPorts" : [ ],
+        "labels" : [ ],
+        "name" : "flowtest",
+        "outputPorts" : [ ],
+        "position" : {
+          "x" : 2176.0,
+          "y" : 224.0
+        },
+        "processGroups" : [ {
+          "comments" : "",
+          "componentType" : "PROCESS_GROUP",
+          "connections" : [ ],
+          "controllerServices" : [ ],
+          "flowFileConcurrency" : "UNBOUNDED",
+          "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
+          "funnels" : [ ],
+          "groupIdentifier" : "33ed3e7a-dce9-3ac0-8087-9ce5a3907186",
+          "identifier" : "1323bf90-5944-311f-a9c1-56fe223fcaa4",
+          "inputPorts" : [ ],
+          "labels" : [ ],
+          "name" : "flowtest",
+          "outputPorts" : [ ],
+          "position" : {
+            "x" : 615.9999898399715,
+            "y" : 59.00000063446922
+          },
+          "processGroups" : [ ],
+          "processors" : [ ],
+          "remoteProcessGroups" : [ ],
+          "variables" : { }
+        } ],
+        "processors" : [ ],
+        "remoteProcessGroups" : [ ],
+        "variables" : { }
+      },
+      "flowEncodingVersion" : "1.0",
+      "parameterContexts" : { }
+    }
+  }
+}
